@@ -15,7 +15,7 @@
 ## 사전 요구 사항
 
 - Docker 및 Docker Compose
-- Python 3.10+
+- Python 3.12
 - Poetry (Python 의존성 관리 도구)
 - 국가교통정보센터에서 발급받은 API 키
 
@@ -50,3 +50,5 @@
    ```bash
    make down
    ```
+
+
